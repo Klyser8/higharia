@@ -1,0 +1,4 @@
+displayName = High-Aria
+author = Klyser
+version = 0.1
+sortAfter = FishGunsPlus, PrimeRework

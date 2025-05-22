@@ -1,0 +1,91 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	DuneVitalityShard: {
+		DisplayName: Dune Vitality Shard
+		Tooltip: Increases your maximum life by 20
+	}
+
+	BloodyNote: {
+		DisplayName: Bloody Note
+		Tooltip: ...Cast no line beneath a bloody moon, not once the gears of two fallen titans lie silent.
+	}
+
+	AncientSlimeStone: {
+		DisplayName: Ancient Slime Stone
+		Tooltip: ""
+	}
+
+	LeechDagger: {
+		DisplayName: Leech Dagger
+		Tooltip: ""
+	}
+
+	SilkenClump: {
+		DisplayName: Silken Clump
+		Tooltip: ""
+	}
+
+	TrueSoulOfFlight: {
+		DisplayName: True Soul of Flight
+		Tooltip: The true, unshackled essence of flight. Used to craft powerful wings.
+	}
+
+	PrismaticBookcase: {
+		DisplayName: Prismatic Bookcase
+		Tooltip: Used to craft spell tomes.
+	}
+
+	AncientPrismaticAnvil: {
+		DisplayName: Ancient Prismatic Anvil
+		Tooltip: Used to craft advanced weapons
+	}
+
+	Magic: {
+		FireBolt: {
+			DisplayName: Fire Bolt
+			Tooltip: ""
+		}
+
+		FrigidflameBolt: {
+			DisplayName: Frigidflame Bolt
+			Tooltip: ""
+		}
+	}
+
+	Ranged: {
+		CrystallineKnife: {
+			DisplayName: Crystalline Knife
+			Tooltip: ""
+		}
+
+		FrigidflameBolt: {
+			DisplayName: Frigidflame Bolt
+			Tooltip: ""
+		}
+	}
+
+	Melee: {
+		ForgottenIceBlade: {
+			DisplayName: Forgotten Ice Blade
+			Tooltip: ""
+		}
+	}
+}
+
+Tiles: {
+	PrismaticBookcase: {
+		DisplayName: Prismatic Bookcase
+		Tooltip: Used to craft spell tomes.
+		MapEntry: Prismatic Bookcase
+	}
+
+	AncientPrismaticAnvil.MapEntry: Ancient Prismatic Anvil
+}
+
+Projectiles: {
+	LeechDaggerProjectile.DisplayName: Leech Dagger Projectile
+	Magic.FireBoltProjectile.DisplayName: Fire Bolt Projectile
+	FrigidflameBoltProjectile.DisplayName: Frigidflame Bolt Projectile
+	CrystallineKnifeProjectile.DisplayName: Crystalline Knife Projectile
+}
